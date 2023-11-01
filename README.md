@@ -3,7 +3,7 @@ Creating a REST API using Node.js, Express.js and Mongodb that allow CRUD operat
 # restAPI
 Creating a REST API using Node.js, Express.js and Mongodb that allow CRUD operations on user profiles
 This project is a high level design in building a RESTful API for user profile operations
-it reqiure some prerequisites such as having node.js, express.js and MongoDB and other packages installed in the running environment 
+it requires some prerequisites such as having node.js, express.js and MongoDB and other packages installed in the running environment 
 This project involves:
 - Setting Up Environment
 - Initialising the Project
